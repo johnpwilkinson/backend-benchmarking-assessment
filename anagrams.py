@@ -10,7 +10,7 @@ for an arbitrary list of strings.
 
 # Your name here, and any other people/sources who helped.
 # Give credit where credit is due.
-__author__ = "John Wilkinson.... thought back to Q1 anagrams assesement and some googling about speeds"
+__author__ = "John Wilkinson.... thought back to Q1 anagrams assesement and some googling about speeds, https://www.tutorialspoint.com/python/dictionary_setdefault.htm"
 
 import sys
 
